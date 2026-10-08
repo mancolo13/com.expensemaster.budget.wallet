@@ -1,4 +1,4 @@
-package com.pulsefit.workout.hiit
+package com.expensemaster.budget.wallet
 
 import io.flutter.embedding.android.FlutterActivity
 
